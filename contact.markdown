@@ -1,6 +1,7 @@
 ---
-title: Contact
+title: Contact Me
 ---
 
-I live in a small hut in the mountains of Kumano Kodō on Kii Hantō and would not
-like to be contacted.
+Phone: (512)550-5822 
+
+Email: <michael@autorefactorer.com>
