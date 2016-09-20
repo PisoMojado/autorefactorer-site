@@ -1,4 +1,11 @@
+#Hakyll items
 _site/
 _cache/
+
+#Haskell Stack items
 .stack-work/
 stack.yaml
+
+#Editor items
+*.swp
+
