@@ -57,8 +57,13 @@ main = hakyllWith config $ do
                 >>= loadAndApplyTemplate "templates/default.html" indexCtx
                 >>= relativizeUrls
 
-    match "templates/*" $ compile templateBodyCompiler
 
+    match "keybase.txt" $ do
+        route idRoute
+        compile copyFileCompiler
+
+
+    match "templates/*" $ compile templateBodyCompiler
 
 --------------------------------------------------------------------------------
 postCtx :: Context String
