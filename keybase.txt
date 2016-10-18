@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/michaeljones
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://autorefactorer.com
+  * I am michaeljones (https://keybase.io/michaeljones) on keybase.
+  * I have a public key with fingerprint 94F1 7464 CAF9 6F3C F503  76D4 5D3A 60C0 E416 D8BC
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010129377a265c55477912e196c9704928bfa273c117d435168eaf3b2576c70f04dd0a",
+            "fingerprint": "94f17464caf96f3cf50376d45d3a60c0e416d8bc",
+            "host": "keybase.io",
+            "key_id": "5d3a60c0e416d8bc",
+            "kid": "010129377a265c55477912e196c9704928bfa273c117d435168eaf3b2576c70f04dd0a",
+            "uid": "ee49ea5348ad1f3a013f8d889255c519",
+            "username": "michaeljones"
+        },
+        "revoke": {
+            "sig_ids": [
+                "e595f65f33c09b7f1e3c5c0d5add0bc67f6a51f65979af2f044481d46d5299630f"
+            ]
+        },
+        "service": {
+            "hostname": "autorefactorer.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1476759676,
+    "expire_in": 157680000,
+    "prev": "3d14ec7093ccbc5730a9e4034d8ff6571338dd3e3b6fd7d3588498b051c6fd0e",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMJ1AnicrZJbbBVFHMZPixzwGFKkKIqJiQvyVE9mdm47x2gCmAaNPFgqNGnhODuX
+07Xt7nF3TxVrJVWaxgbQqi8mhFICJaTxGmMCiTlgjqYRjIEHTTR4wxpSvAaeTL3M
+NvjGo/MymZnv//t/8800VizJFZpOHL7NufbZsZ1NZ8/8Xct1LX3luSHHj9RupzTk
+9OnFSfcrnaTlvkA5JQdAAF2OGBMuJZIQzBiHroacSs4A5q7nG+EyJCFkCiMCqaeF
+Qb5LGJUMGICVAsJpc0wQVnRcjYMwtViODWSYYikMpwZJQwBiVGGikKBAAo0hVZ4v
+bWFvlGQV1pwvEl0MIrtnF+VFezfQ/8++a4s4rTHXgiDsCQUNEgAi4ynP4y6xdMgz
+YaLjUAxoqx4IZK/Q/U9GoU6c4TYn1oNRn86yTYKKNZ44pW5HE04MJQYhCbjPDNRI
+EgkUEbazLykzVBBoFZxxYVzrCGMPKkwVcTmnCBhnp2XbroOBXIRnSV13IGppFGsj
+ZDbFRRkNWIfVOEojGfXb8940rSalzFu6u5oVPK398nVU2Q9CZV/LVgzqOAmi0ClB
+q5RpkLEhZpQRThltc/Qz1SDW5SBT2OA8YEfWRw9aJFIQa5slR1L6kjAEBNcYIKw8
+Y6/FIEKeUkgjnxrFFCKeh7nnAwKl3QDayS73VBhZNrQ+RcUybX6hSGuxdoY/Ot1z
+U66pkMsvbc6+ca5w88r/PnfH1WULLa0zr01PHtlxfGq0+Z+uB9fmT7WcHL9cD2cP
+N3+34/mxh9M3Kkf3dXXOb7p8LJxxV6jx974h9T2X1k0kU1/fd3fv2y9vp+c7Ojs6
+R06v+/jK1i3rN93/yZ3bHnvgpx8+NOuHR+8RE+1kw8avXvj+9tblI381fl34Ze7z
+4++eF8FUhf78x9DYxPbuVY0rnz6+rTG3hi7Jy9nm39qL926ef2SuUc/7z17c9Va9
+MPlosXhuPBevGtv60uT0TKvqrBf3vSPcRv7P/U+sbr0almY39vzYfvGOwuiuSy1n
+tnx56K69ta4P3ty858L7XyycGrg2Xa/esn/k2zU982tX/w5fv/WhF/uP1HIHXt17
+4GD3v7osW34=
+=jmNd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/michaeljones
+
+==================================================================
+
