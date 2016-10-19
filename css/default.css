@@ -1,5 +1,6 @@
 body {
     color: black;
+    font-family: 'Proza Libre', sans-serif;
     font-size: 16px;
     margin: 0px auto 0px auto;
     width: 600px;
@@ -42,10 +43,12 @@ div#footer {
 }
 
 h1 {
-    font-size: 24px;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 28px;
 }
 
 h2 {
+    font-family: 'Proza Libre', sans-serif;
     font-size: 20px;
 }
 
@@ -54,3 +57,6 @@ div.info {
     font-size: 14px;
     font-style: italic;
 }
+
+/* font-family: 'Cormorant Garamond', serif;
+ * font-family: 'Proza Libre', sans-serif; */
