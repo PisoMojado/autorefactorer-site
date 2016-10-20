@@ -13,4 +13,4 @@ I am a software engineer living in Houston, TX. Besides the art of programming, 
 Colophon
 ========
 
-This site is generated using `hakyll <https://jaspervdj.be/hakyll/>`_, a haskell library for generating static sites.
+This site is generated using `hakyll <https://jaspervdj.be/hakyll/>`_, a haskell library for generating static sites. Content reusable under `CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/deed.en_US>`_.
